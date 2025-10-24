@@ -5,7 +5,7 @@
 - 🧰 Principais tecnologias: **Python**, **TypeScript**, **Node.js (Express)** (básico), **Docker**, **MySQL/Postgres**, **React**.
 - 🔭 No momento: construindo portfólio e aprimorando projetos de automação.
 - 🌱 Estudando: Scikit-learn, TensorFlow PyTorch e Keras, automações com **n8n** e integrações via **APIs/Webhooks**..
-- 📫 Contato: **lucas.kilowatt@gmail.com** | [GitHub](https://github.com/ClubedoBituca) | [LinkedIn](https://www.linkedin.com/in/lucas-salles-granado-36a195334/)  
+- 📫 Contato: **lucas.kilowatt@gmail.com** | [LinkedIn](https://www.linkedin.com/in/lucas-salles-granado-36a195334/)  
 - 📍 Pouso Alegre, MG — Brasil
 
 ---
@@ -28,7 +28,7 @@ Express · Docker · REST · JWT · MySQL/Postgres
 React (Vite) · HTML · CSS (básico) · Tailwind
 
 **Ferramentas:**  
-Git · GitHub · VSCode · n8n · Postman  
+Git · GitHub · VSCode · n8n 
 
 
 ---
