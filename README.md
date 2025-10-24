@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá — eu sou o Lucas Salles 👋
 
-<!--
-**ClubedoBituca/ClubedoBituca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 🎓 Estudante de Sistemas de Informação — UNIFEI (6º período).
+- 🧰 Principais tecnologias: **Python**, **TypeScript**, **Node.js (Express)** (básico), **Docker**, **MySQL/Postgres**, **React**.
+- 🔭 No momento: construindo portfólio e aprimorando projetos de automação.
+- 🌱 Estudando: Scikit-learn, TensorFlow PyTorch e Keras, automações com **n8n** e integrações via **APIs/Webhooks**..
+- 📫 Contato: **lucas.kilowatt@gmail.com** | [GitHub](https://github.com/ClubedoBituca) | [LinkedIn](https://www.linkedin.com/in/lucas-salles-granado-36a195334/)  
+- 📍 Pouso Alegre, MG — Brasil
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguagens:**  
+Python · TypeScript · JavaScript · C · C#
+
+**Backend / Infra:**  
+Express · Docker · REST · JWT · MySQL/Postgres  
+
+**Frontend:**  
+React (Vite) · HTML · CSS (básico) · Tailwind
+
+**Ferramentas:**  
+Git · GitHub · VSCode · n8n · Postman  
+
+
+---
+
+## 👨‍💼 Procuro
+Vagas de estágio, oportunidades para desenvolver automações e integrações web.  
+Aberto a colaborações em projetos open source e experimentais.
+
+---
+
+⭐ **Obrigado por visitar!**  
+Se quiser trocar ideia sobre código, automação ou música — me chama!  
