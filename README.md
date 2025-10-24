@@ -7,6 +7,13 @@
 - 🌱 Estudando: Scikit-learn, TensorFlow PyTorch e Keras, automações com **n8n** e integrações via **APIs/Webhooks**..
 - 📫 Contato: **lucas.kilowatt@gmail.com** | [GitHub](https://github.com/ClubedoBituca) | [LinkedIn](https://www.linkedin.com/in/lucas-salles-granado-36a195334/)  
 - 📍 Pouso Alegre, MG — Brasil
+
+---
+
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClubedoBituca&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClubedoBituca&show_icons=true)
+
 ---
 
 ## 🔧 Skills
