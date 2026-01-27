@@ -1,4 +1,6 @@
-# Olá — eu sou o Lucas Salles 👋 Visite meu site: https://lucassalles-portfolio.vercel.app/
+# Olá — eu sou o Lucas Salles 👋 
+
+Visite meu site: https://lucassalles-portfolio.vercel.app/
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Sistemas de Informação — UNIFEI (6º período).
